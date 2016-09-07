@@ -1,7 +1,7 @@
 {
     "company" : {
-        "name" : "HikeTracker",
-        "url" : "http://hiketracker.com"
+        "name" : "Division of Information Technology",
+        "url" : "http://it.umd.edu"
     },
     "title" : "Pattern Lab",
     "pageTitle": "Page Title",
@@ -53,21 +53,26 @@
     "number" : "12",
     "primaryNav" : [
         {
-            "label": "About",
+            "label": "Governance",
+            "url": "link.pages-about"
+        },
+         {
+            "label": "Leadership",
             "url": "link.pages-about"
         },
         {
-            "label": "Blog",
+            "label": "Calendar",
             "url": "link.pages-blog-index"
         },
-        {
-            "label": "Contact",
-            "url": "link.pages-contact"
+         {
+            "label": "Spotlight",
+            "url": "link.pages-about"
         },
-        {
-            "label": "Login",
-            "url": "link.pages-login"
+         {
+            "label": "Careers",
+            "url": "link.pages-about"
         }
+        
     ],
     "footerNav" : [
         {
