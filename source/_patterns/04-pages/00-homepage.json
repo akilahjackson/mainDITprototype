@@ -16,7 +16,7 @@
 			"short" : "Secure Data"
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/media/HIPS-Filled-100.png",
+	  	  "src": "../../images/media/secure-data-650.png",
 	        "alt": "Secure Data"
 	    }
 	  },
@@ -26,7 +26,7 @@
 			"short" : "Get Support"
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/media/System-Report-Filled-100.png",
+	  	  "src": "../../images/media/get-support-650.png",
 	        "alt": "Get Support"
 	    }
 	  },
@@ -36,7 +36,7 @@
 			"short" : "Ideas & Projects "
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/media/Concept-100.png",
+	  	  "src": "../../images/media/ideas-projects-650.png",
 	        "alt": "Ideas & Projects"
 	    }
 	  }
