@@ -2,4 +2,4 @@
 title: Text Button
 ---
 
-[Insert description here]
+Buttons styles are influenced by bootstrap.

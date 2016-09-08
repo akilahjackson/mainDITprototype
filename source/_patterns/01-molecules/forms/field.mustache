@@ -1,10 +1,11 @@
 {{# field }}
-<div class="c-field">
-	<label for="{{ id }}" class="c-field__label">{{ label }}</label>
-	<input id="{{ id }}" type="{{ type }}" placeholder="{{ placeholder }}" value="{{ value }}" />
+<div class="form-group row">
+	<label for="{{ id }}" class="col-xs-2 col-form-label">{{ label }}</label>
+	<input class="form-control" id="{{ id }}" type="{{ type }}" placeholder="{{ placeholder }}" value="{{ value }}" />
 	{{# fieldNote }}
 		<span class="c-field__note">{{{ fieldNote }}}</span>
 	{{/ fieldNote }}
 
 </div><!--end c-field-->
 {{/ field }}
+
