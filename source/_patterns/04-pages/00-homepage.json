@@ -3,11 +3,11 @@
 	"bodyClass": "home",
 	"emergency" : false,
     "imgHero" : {
-  	  "src": "../../images/sample/hero-forest.jpg",
+  	  "src": "../../images/media/laptop.jpg",
       "alt": "Forest"
     },
     "headline" : {
-        "medium" : "<h2>Find Services.</h2> IT Solutions for learning, research & administration"
+        "medium" : "Find Services. IT Solutions for learning, research & administration"
     },
 	"toutList" : [
       {
@@ -16,8 +16,8 @@
 			"short" : "Secure Data"
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/sample/tout-winter-hiker.jpg",
-	        "alt": "Hiker with back pack walking in snow"
+	  	  "src": "../../images/media/HIPS-Filled-100.png",
+	        "alt": "Secure Data"
 	    }
 	  },
       {
@@ -26,8 +26,8 @@
 			"short" : "Get Support"
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/sample/tout-leaves.jpg",
-	        "alt": "Green Leaves"
+	  	  "src": "../../images/media/System-Report-Filled-100.png",
+	        "alt": "Get Support"
 	    }
 	  },
       {
@@ -36,8 +36,8 @@
 			"short" : "Ideas & Projects "
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/sample/tout-mountains.jpg",
-	        "alt": "Mountain"
+	  	  "src": "../../images/media/Concept-100.png",
+	        "alt": "Ideas & Projects"
 	    }
 	  }
     ],
@@ -95,7 +95,7 @@
 		"btnText" : "Immediate Help"
 	},
 	"featuredPeople" : {
-		"sectionTitle" : "Featured Hikers",
+		"sectionTitle" : "Immediate Help",
 		"mediaList": [
 			{
 				"url" : "",
