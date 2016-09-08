@@ -3,8 +3,8 @@
         "name" : "Division of Information Technology",
         "url" : "http://it.umd.edu"
     },
-    "title" : "Pattern Lab",
-    "pageTitle": "Page Title",
+    "title" : "Pattern Lab for Division of Information Technology",
+    "pageTitle": "PL4DIT",
     "htmlClass": "pl",
     "bodyClass": "body",
     "btnText" : "Button",

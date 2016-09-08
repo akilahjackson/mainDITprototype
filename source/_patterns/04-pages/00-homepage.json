@@ -7,13 +7,13 @@
       "alt": "Forest"
     },
     "headline" : {
-        "medium" : "Track your hikes. Challenge your friends. Get out there and start exploring."
+        "medium" : "<h2>Find Services.</h2> IT Solutions for learning, research & administration"
     },
 	"toutList" : [
       {
 		"url": "link.pages-blog-detail",
 		"headline": {
-			"short" : "Best winter hikes around the world"
+			"short" : "Secure Data"
 		},
 		"imgLandscape" : {
 	  	  "src": "../../images/sample/tout-winter-hiker.jpg",
@@ -23,7 +23,7 @@
       {
 		"url": "link.pages-login",
 		"headline": {
-			"short" : "Sign in to view your dashboard"
+			"short" : "Get Support"
 		},
 		"imgLandscape" : {
 	  	  "src": "../../images/sample/tout-leaves.jpg",
@@ -33,7 +33,7 @@
       {
 		"url" : "link.pages-about",
 		"headline": {
-			"short" : "Learn about our mission"
+			"short" : "Ideas & Projects "
 		},
 		"imgLandscape" : {
 	  	  "src": "../../images/sample/tout-mountains.jpg",
@@ -47,7 +47,7 @@
 		}
 	],
 	"latestPosts" : {
-		"sectionTitle": "Latest From the Blog",
+		"sectionTitle": "Latest News",
 		"mediaList": [
 			{
 				"url" : "link.pages-blog-detail",
@@ -92,7 +92,7 @@
 				
 			}
 		],
-		"btnText" : "View All Posts"
+		"btnText" : "Immediate Help"
 	},
 	"featuredPeople" : {
 		"sectionTitle" : "Featured Hikers",
