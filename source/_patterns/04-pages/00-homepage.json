@@ -55,7 +55,7 @@
 		"mediaList": [
 			{
 				"url" : "link.pages-blog-detail",
-				"imgSquare" : {
+				"imgThumbnail" : {
 					"src": "../../../images/media/Classroom_I-Series_Wish.jpg",
 					"alt": "Classroom I Series Wish"
 				},
@@ -69,7 +69,7 @@
 			},
 			{
 				"url" : "link.pages-blog-detail",
-				"imgSquare" : {
+				"imgThumbnail" : {
 					"src": "../../../images/media/Journalism_Classroom.jpg",
 					"alt": "Journalism Classroom"
 				},
@@ -83,7 +83,7 @@
 			},
 			{
 				"url" : "link.pages-blog-detail",
-				"imgSquare" : {
+				"imgThumbnail" : {
 					"src": "../../../images/media/Journalism_Classroom_2.jpg",
 					"alt": "Journalism Classroom 2"
 				},
@@ -147,6 +147,6 @@
 				
 			}
 		],
-		"btnText" : "View All Hikers"
+		"btnText" : ""
 	}
 }
