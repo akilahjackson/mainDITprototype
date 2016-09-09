@@ -4,11 +4,15 @@
 	"emergency" : false,
     "imgHero" : {
   	  "src": "../../images/media/laptop.jpg",
-      "alt": "Forest"
+      "alt": "Laptop"
     },
     "headline" : {
-        "medium" : "Find Services. IT Solutions for learning, research & administration"
+        "medium" : "Find Services",
+        "hook" : "IT Solutions for learning, research & administration",
+        "button" : "Find Services",
+        "link" : "<a class="btn btn-link" href="#" role="button">Contact Us</a>"
     },
+
 	"toutList" : [
       {
 		"url": "link.pages-blog-detail",
