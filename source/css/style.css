@@ -334,6 +334,10 @@ h1 {
   font-size: 3rem;
   }
 
+h1 small {
+
+color: #fcfcfc;
+}
 /**
  * Heading 2
  */

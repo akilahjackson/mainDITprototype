@@ -3,9 +3,9 @@
         "name" : "Division of Information Technology",
         "url" : "http://it.umd.edu"
     },
-    "title" : "Pattern Lab for Division of Information Technology",
-    "pageTitle": "PL4DIT",
-    "htmlClass": "pl",
+    "title" : "Living Styles for Division of Information Technology",
+    "pageTitle": "Living Styles for Division of Information Technology",
+    "htmlClass": "dit",
     "bodyClass": "body",
     "btnText" : "Button",
     "progress" : true,
@@ -40,9 +40,16 @@
         "src": "../../images/fpo_16x9.png",
         "alt": "Landscape Image"
     },
+      "imgThumbnail" : {
+        "src": "../../images/fpo_thumbnail.svg",
+        "alt": "Thumbnail Image"
+    },
     "headline" : {
         "short" : "Lorem ipsum dolor sit (37 characters)",
-        "medium" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit iopa. (76 characters)"
+        "medium" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit iopa. (76 characters)",
+        "hook" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales magna sapien, sit amet tempor risus mollis quis... sono (140 characters)",
+        "button" : "Lorem ipsum",
+        "link" : "Lorem ipsum" 
     },
     "sectionTitle" : "Section Title",
     "excerpt" : {
