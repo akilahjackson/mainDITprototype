@@ -12,6 +12,6 @@
 
 require(__DIR__."/../../../../../autoload.php");
 
-$server = new \Wrench\BasicServer('ws://localhost:8000', array('allowed_origins' => array('localhost')));
+$server = new \Wrench\BasicServer('wss://localhost:8000', array('allowed_origins' => array('localhost')));
 $server->registerApplication('reload', new \PatternLab\Reload\AutoReloadApplication());
 $server->run();

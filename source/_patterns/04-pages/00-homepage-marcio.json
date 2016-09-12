@@ -12,6 +12,66 @@
         "button" : "Browse Services",
         "link" : "Get Support"
     },
+    
+     "blockFeature" : {
+	    "styleModifier" : "featured",
+	    "number" : "4,500",
+	    "headline" : {
+			"short": "Feet of Elevation Gain"
+		},
+		"progress" : {
+			"max" : "100",
+			"progressValue" : "100",
+			"label" : "Progress: 100%"
+		}
+
+    },
+    "tileList" : [
+		{
+			"number" : "16",
+			"headline" : {
+				"short": "National Parks"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "20",
+				"label" : "Progress: 20%"
+			}
+		},
+		{
+			"number" : "500",
+			"headline" : {
+				"short": "Hikes"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "40",
+				"label" : "Progress: 40%"
+			}
+		},
+		{
+			"number" : "62,500",
+			"headline" : {
+				"short": "Calories Burned"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "60",
+				"label" : "Progress: 60%"
+			}
+		},
+		{
+			"number" : "94,300,843",
+			"headline" : {
+				"short": "Steps"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "80",
+				"label" : "Progress: 80%"
+			}
+		}
+    ],
 
 	"toutList" : [
       {
@@ -150,4 +210,3 @@
 		"btnText" : ""
 	}
 }
-
