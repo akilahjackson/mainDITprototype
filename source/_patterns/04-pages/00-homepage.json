@@ -20,7 +20,7 @@
 			"short" : "Secure Data"
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/media/secure-data-650.png",
+	  	  "src": "../../images/secure-data-650.png",
 	        "alt": "Secure Data"
 	    }
 	  },
@@ -30,7 +30,7 @@
 			"short" : "Get Support"
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/media/get-support-650.png",
+	  	  "src": "../../images/get-support-650.png",
 	        "alt": "Get Support"
 	    }
 	  },
@@ -40,7 +40,7 @@
 			"short" : "Ideas & Projects "
 		},
 		"imgLandscape" : {
-	  	  "src": "../../images/media/ideas-projects-650.png",
+	  	  "src": "../../images/ideas-projects-650.png",
 	        "alt": "Ideas & Projects"
 	    }
 	  }
@@ -56,7 +56,7 @@
 			{
 				"url" : "link.pages-blog-detail",
 				"imgThumbnail" : {
-					"src": "../../../images/media/Classroom_I-Series_Wish.jpg",
+					"src": "../../../images/Classroom_I-Series_Wish.jpg",
 					"alt": "Classroom I Series Wish"
 				},
 				"headline" : {
@@ -70,7 +70,7 @@
 			{
 				"url" : "link.pages-blog-detail",
 				"imgThumbnail" : {
-					"src": "../../../images/media/Journalism_Classroom.jpg",
+					"src": "../../../images/Journalism_Classroom.jpg",
 					"alt": "Journalism Classroom"
 				},
 				"headline" : {
@@ -84,7 +84,7 @@
 			{
 				"url" : "link.pages-blog-detail",
 				"imgThumbnail" : {
-					"src": "../../../images/media/Journalism_Classroom_2.jpg",
+					"src": "../../../images/Journalism_Classroom_2.jpg",
 					"alt": "Journalism Classroom 2"
 				},
 				"headline" : {
@@ -105,7 +105,7 @@
 				"url" : "",
 				"styleModifier" : "small",
 				"imgSquare" : {
-					"src": "../../../images/media/avatar1.jpg",
+					"src": "../../../images/avatar1.jpg",
 					"alt": "avatar"
 				},
 				"headline" : {
@@ -120,7 +120,7 @@
 				"url" : "",
 				"styleModifier" : "small",
 				"imgSquare" : {
-					"src": "../../../images/media/avatar2.jpg",
+					"src": "../../../images/avatar2.jpg",
 					"alt": "avatar"
 				},
 				"headline" : {
@@ -135,7 +135,7 @@
 				"url" : "",
 				"styleModifier" : "small",
 				"imgSquare" : {
-					"src": "../../../images/media/avatar3.jpg",
+					"src": "../../../images/avatar3.jpg",
 					"alt": "avatar"
 				},
 				"headline" : {
